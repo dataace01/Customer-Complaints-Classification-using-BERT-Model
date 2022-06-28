@@ -1,6 +1,6 @@
 # Business Overview 
 
-So far, in this series of NLP projects for my multiclass text classification problem, I have come across several algorithms such as; the Naïve Bayes algorithm, skip-gram model, Recurrent Neural Network (RNN), and Long Short-Term Memory (LSTM) as well as attention mechanism. All these models were built and implemented from scratch. In this particular project, I will be using a pre-trained model to predict my text known as BERT. BERT is an open-source ML framework for Natural Language Processing. BERT stands for Bidirectional Encoder Representations and is a pre-trained model from Google known for producing state-of-the-art results in a wide variety of NLP tasks.
+So far, in this series of NLP projects for my multiclass text classification problem, I have come across several algorithms such as; the Naïve Bayes algorithm, skip-gram model, Recurrent Neural Network (RNN), and Long Short-Term Memory (LSTM) as well as attention mechanism. All these models I am built and implemented from scratch. In this particular project, I will be using a pre-trained model to predict my text known as BERT. BERT is an open-source ML framework for Natural Language Processing. BERT stands for Bidirectional Encoder Representations and is a pre-trained model from Google known for producing state-of-the-art results in a wide variety of NLP tasks.
 
 
 
