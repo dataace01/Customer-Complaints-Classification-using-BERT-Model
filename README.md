@@ -17,20 +17,6 @@ The dataset contains more than two million customer complaints about consumer fi
 
  
 
-## Prerequisite
-
-- The torch framework
-
-- Multiclass Text Classification using Naive Bayes in Python
-
-- Skip Gram Model Python Implementation for Word Embeddings
-
-- Build Multi Class Text Classification Models with RNN and LSTM
-
-- Build a Text Classification Model with Attention Mechanism NLP
-
- 
-
 ## Approach
 
 1. Installing the necessary packages through the pip command
